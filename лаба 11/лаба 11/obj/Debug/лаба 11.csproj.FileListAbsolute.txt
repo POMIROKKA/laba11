@@ -1,0 +1,10 @@
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\bin\Debug\лаба 11.exe.config
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\bin\Debug\лаба 11.exe
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\bin\Debug\лаба 11.pdb
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\obj\Debug\лаба 11.csprojAssemblyReference.cache
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\obj\Debug\лаба_11.Form1.resources
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\obj\Debug\лаба_11.Properties.Resources.resources
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.GenerateResource.cache
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.CoreCompileInputs.cache
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\obj\Debug\лаба 11.exe
+C:\Users\pomir\OneDrive\Рабочий стол\инфа\лаба 11\лаба 11\obj\Debug\лаба 11.pdb
